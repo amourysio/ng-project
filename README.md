@@ -5,7 +5,7 @@ About sass https://sass-lang.com/install
 ## Bull and Cow
 Instruction Link http://www.papg.com/show?1TLX
 
-# AngularGame
+## AngularGame
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
